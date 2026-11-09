@@ -3,8 +3,8 @@
 
 ## 练习记录
 
-- [Issue 的处理步骤](issues.md) · [初始化检查 #1](../../issues/1)
-- [Pull Request 的合并步骤](pull-requests.md) · [首次合并 #2](../../pull/2) · [第二次合并 #3](../../pull/3)
+- [Issue 的处理步骤](issues.md) · [初始化检查 #1](https://github.com/Ethan101-Liu/github-workflow-practice/issues/1)
+- [Pull Request 的合并步骤](pull-requests.md) · [首次合并 #2](https://github.com/Ethan101-Liu/github-workflow-practice/pull/2) · [第二次合并 #3](https://github.com/Ethan101-Liu/github-workflow-practice/pull/3)
 
 ## 怎样确认成就是否到账？
 
